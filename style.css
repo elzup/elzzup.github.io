@@ -1,0 +1,9 @@
+body {
+  font-family: 'Indie Flower', cursive;
+}
+
+#ochinpo {
+  width: 60%;
+  padding: 10px;
+  word-wrap: break-word;
+}
